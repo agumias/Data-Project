@@ -12,3 +12,7 @@ section.row {
   font-size: 12;
   text-align: justify;
 }
+
+figure.captions {
+  font-size: 12
+}
