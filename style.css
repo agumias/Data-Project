@@ -8,11 +8,17 @@ section.row {
 }
 
 #captions {
-  margin-bottom: 5px;
+  margin-bottom: 10px;
   font-size: 12;
   text-align: justify;
 }
 
 figure.captions {
   font-size: 12
+}
+
+.captions {
+  margin-bottom: 10px;
+  font-size: 12px;
+  text-align: center;
 }
