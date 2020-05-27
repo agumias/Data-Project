@@ -7,10 +7,10 @@ section.row {
     margin-bottom: 20px
 }
 
-#captions {
+#container_captions {
   margin-bottom: 10px;
   font-size: 12;
-  text-align: justify;
+  text-align: center;
 }
 
 figure.captions {
